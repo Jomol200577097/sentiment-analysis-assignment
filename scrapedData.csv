@@ -1,0 +1,6 @@
+text,polarity,sentiment
+The economy is improving faster than expected.,-0.1,Negative
+The new product launch was a complete disaster.,0.11818181818181818,Positive
+I love using this new AI tool for productivity!,0.3352272727272727,Positive
+There are concerns about inflation rising.,0.0,Neutral
+The team performed exceptionally well today.,0.6666666666666666,Positive
